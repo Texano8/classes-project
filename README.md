@@ -8,6 +8,6 @@
 * JUnit 4.12
 * Selenium 2.53
 
-Automation Project.
+Automation Project using Selenium
 
 [Javier Delgado](https://github.com/Texano8)
